@@ -7,7 +7,7 @@
       {
         "name": "core",
         "sshAuthorizedKeys": [
-          "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCYDFeNeAkdpUQcAWK3B+OZp/dFRwFQvnb1xbQs37n0OO3bkgdVQjl1FyKglZxGy49ufZQfeMIhzCLhwOsSJies9F5rN8XPr6dVg8m1cFuE2sEpBmMdIrJEG7ntq8JbWIRTnm0GOBKBl5NpR/Qd0yfyFAEGHP118Z1mSCIQpkXZBwmnqP7GKd6o6joxvZC2iVrmRDHoGlqMBrXuxYqJQqIFLeypXt4MJoQtoTouN81z3DQDLOCwLj4itQC5Zh1nmRLCD6nhXfL3xmYi3L6/bgauSUNdGWZoWY5hCoVcRdL/0cXDH4pNlpux4xWaD93QtavymxsFGxfmdAqoL6Cug97J rsa-key-20221221"
+          "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCgfJeWI3DxgqxV/U9Tt+uG10mGtENPifrnQqLoe/dGUyOM4uq5HT5VznrIqPsmJV/kj8IAGTNqN4VhHaeVHH+XItw3Lmsk8Eb38tu/5oHZ5l1Qppe4DMuiVkaqFBQRzOxzIiMNzLiAKvd7lUAdlUKuuiqvxVNIAMLdGPmjDmbj0FWUTrqzRaSFW4pszxyxQdzoQ0XtJvUyFkzJqmjgae/2hL54SlvTu2lOJgvN2jcbSDUEAIDTSG7jdp8UDNjIr/3vbYUEo83dlokbtpQKMpmk3G+K7Sz08/2WuxX/e1e69RBq+JwVwItJovUTFzWnqyIPwb+3kH6RcPN44uQ1PfZR rsa-key-20221230"
         ]
       }
     ]
